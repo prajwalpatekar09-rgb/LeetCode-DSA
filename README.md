@@ -4,6 +4,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0048-rotate-image](https://github.com/prajwalpatekar09-rgb/LeetCode-DSA/tree/master/0048-rotate-image) |
 | [0073-set-matrix-zeroes](https://github.com/prajwalpatekar09-rgb/LeetCode-DSA/tree/master/0073-set-matrix-zeroes) |
 | [0128-longest-consecutive-sequence](https://github.com/prajwalpatekar09-rgb/LeetCode-DSA/tree/master/0128-longest-consecutive-sequence) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/prajwalpatekar09-rgb/LeetCode-DSA/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
@@ -21,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0009-palindrome-number](https://github.com/prajwalpatekar09-rgb/LeetCode-DSA/tree/master/0009-palindrome-number) |
+| [0048-rotate-image](https://github.com/prajwalpatekar09-rgb/LeetCode-DSA/tree/master/0048-rotate-image) |
 ## Union-Find
 |  |
 | ------- |
@@ -28,5 +30,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Matrix
 |  |
 | ------- |
+| [0048-rotate-image](https://github.com/prajwalpatekar09-rgb/LeetCode-DSA/tree/master/0048-rotate-image) |
 | [0073-set-matrix-zeroes](https://github.com/prajwalpatekar09-rgb/LeetCode-DSA/tree/master/0073-set-matrix-zeroes) |
 <!---LeetCode Topics End-->
