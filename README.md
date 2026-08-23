@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0015-3sum](https://github.com/prajwalpatekar09-rgb/LeetCode-DSA/tree/master/0015-3sum) |
+| [0016-3sum-closest](https://github.com/prajwalpatekar09-rgb/LeetCode-DSA/tree/master/0016-3sum-closest) |
 | [0018-4sum](https://github.com/prajwalpatekar09-rgb/LeetCode-DSA/tree/master/0018-4sum) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/prajwalpatekar09-rgb/LeetCode-DSA/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0048-rotate-image](https://github.com/prajwalpatekar09-rgb/LeetCode-DSA/tree/master/0048-rotate-image) |
@@ -27,6 +28,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0015-3sum](https://github.com/prajwalpatekar09-rgb/LeetCode-DSA/tree/master/0015-3sum) |
+| [0016-3sum-closest](https://github.com/prajwalpatekar09-rgb/LeetCode-DSA/tree/master/0016-3sum-closest) |
 | [0018-4sum](https://github.com/prajwalpatekar09-rgb/LeetCode-DSA/tree/master/0018-4sum) |
 | [0056-merge-intervals](https://github.com/prajwalpatekar09-rgb/LeetCode-DSA/tree/master/0056-merge-intervals) |
 | [0088-merge-sorted-array](https://github.com/prajwalpatekar09-rgb/LeetCode-DSA/tree/master/0088-merge-sorted-array) |
@@ -72,6 +74,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0015-3sum](https://github.com/prajwalpatekar09-rgb/LeetCode-DSA/tree/master/0015-3sum) |
+| [0016-3sum-closest](https://github.com/prajwalpatekar09-rgb/LeetCode-DSA/tree/master/0016-3sum-closest) |
 | [0018-4sum](https://github.com/prajwalpatekar09-rgb/LeetCode-DSA/tree/master/0018-4sum) |
 | [0088-merge-sorted-array](https://github.com/prajwalpatekar09-rgb/LeetCode-DSA/tree/master/0088-merge-sorted-array) |
 ## Quicksort
