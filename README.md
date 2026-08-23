@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0048-rotate-image](https://github.com/prajwalpatekar09-rgb/LeetCode-DSA/tree/master/0048-rotate-image) |
 | [0054-spiral-matrix](https://github.com/prajwalpatekar09-rgb/LeetCode-DSA/tree/master/0054-spiral-matrix) |
 | [0056-merge-intervals](https://github.com/prajwalpatekar09-rgb/LeetCode-DSA/tree/master/0056-merge-intervals) |
+| [0066-plus-one](https://github.com/prajwalpatekar09-rgb/LeetCode-DSA/tree/master/0066-plus-one) |
 | [0073-set-matrix-zeroes](https://github.com/prajwalpatekar09-rgb/LeetCode-DSA/tree/master/0073-set-matrix-zeroes) |
 | [0088-merge-sorted-array](https://github.com/prajwalpatekar09-rgb/LeetCode-DSA/tree/master/0088-merge-sorted-array) |
 | [0118-pascals-triangle](https://github.com/prajwalpatekar09-rgb/LeetCode-DSA/tree/master/0118-pascals-triangle) |
@@ -39,6 +40,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0009-palindrome-number](https://github.com/prajwalpatekar09-rgb/LeetCode-DSA/tree/master/0009-palindrome-number) |
 | [0048-rotate-image](https://github.com/prajwalpatekar09-rgb/LeetCode-DSA/tree/master/0048-rotate-image) |
+| [0066-plus-one](https://github.com/prajwalpatekar09-rgb/LeetCode-DSA/tree/master/0066-plus-one) |
 | [3622-check-divisibility-by-digit-sum-and-product](https://github.com/prajwalpatekar09-rgb/LeetCode-DSA/tree/master/3622-check-divisibility-by-digit-sum-and-product) |
 ## Union-Find
 |  |
