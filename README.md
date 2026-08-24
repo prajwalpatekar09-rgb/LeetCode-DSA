@@ -41,6 +41,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0009-palindrome-number](https://github.com/prajwalpatekar09-rgb/LeetCode-DSA/tree/master/0009-palindrome-number) |
 | [0048-rotate-image](https://github.com/prajwalpatekar09-rgb/LeetCode-DSA/tree/master/0048-rotate-image) |
 | [0066-plus-one](https://github.com/prajwalpatekar09-rgb/LeetCode-DSA/tree/master/0066-plus-one) |
+| [0258-add-digits](https://github.com/prajwalpatekar09-rgb/LeetCode-DSA/tree/master/0258-add-digits) |
 | [3622-check-divisibility-by-digit-sum-and-product](https://github.com/prajwalpatekar09-rgb/LeetCode-DSA/tree/master/3622-check-divisibility-by-digit-sum-and-product) |
 ## Union-Find
 |  |
@@ -60,6 +61,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0054-spiral-matrix](https://github.com/prajwalpatekar09-rgb/LeetCode-DSA/tree/master/0054-spiral-matrix) |
+| [0258-add-digits](https://github.com/prajwalpatekar09-rgb/LeetCode-DSA/tree/master/0258-add-digits) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -83,4 +85,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0056-merge-intervals](https://github.com/prajwalpatekar09-rgb/LeetCode-DSA/tree/master/0056-merge-intervals) |
+## Number Theory
+|  |
+| ------- |
+| [0258-add-digits](https://github.com/prajwalpatekar09-rgb/LeetCode-DSA/tree/master/0258-add-digits) |
 <!---LeetCode Topics End-->
