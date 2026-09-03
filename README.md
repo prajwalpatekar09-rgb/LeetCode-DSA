@@ -22,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0229-majority-element-ii](https://github.com/prajwalpatekar09-rgb/LeetCode-DSA/tree/master/0229-majority-element-ii) |
 | [0704-binary-search](https://github.com/prajwalpatekar09-rgb/LeetCode-DSA/tree/master/0704-binary-search) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/prajwalpatekar09-rgb/LeetCode-DSA/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
+| [3875-construct-uniform-parity-array-i](https://github.com/prajwalpatekar09-rgb/LeetCode-DSA/tree/master/3875-construct-uniform-parity-array-i) |
 ## Hash Table
 |  |
 | ------- |
@@ -50,6 +51,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0258-add-digits](https://github.com/prajwalpatekar09-rgb/LeetCode-DSA/tree/master/0258-add-digits) |
 | [0342-power-of-four](https://github.com/prajwalpatekar09-rgb/LeetCode-DSA/tree/master/0342-power-of-four) |
 | [3622-check-divisibility-by-digit-sum-and-product](https://github.com/prajwalpatekar09-rgb/LeetCode-DSA/tree/master/3622-check-divisibility-by-digit-sum-and-product) |
+| [3875-construct-uniform-parity-array-i](https://github.com/prajwalpatekar09-rgb/LeetCode-DSA/tree/master/3875-construct-uniform-parity-array-i) |
 ## Union-Find
 |  |
 | ------- |
