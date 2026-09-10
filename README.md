@@ -51,6 +51,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0231-power-of-two](https://github.com/prajwalpatekar09-rgb/LeetCode-DSA/tree/master/0231-power-of-two) |
 | [0258-add-digits](https://github.com/prajwalpatekar09-rgb/LeetCode-DSA/tree/master/0258-add-digits) |
 | [0342-power-of-four](https://github.com/prajwalpatekar09-rgb/LeetCode-DSA/tree/master/0342-power-of-four) |
+| [3516-find-closest-person](https://github.com/prajwalpatekar09-rgb/LeetCode-DSA/tree/master/3516-find-closest-person) |
 | [3622-check-divisibility-by-digit-sum-and-product](https://github.com/prajwalpatekar09-rgb/LeetCode-DSA/tree/master/3622-check-divisibility-by-digit-sum-and-product) |
 | [3870-count-commas-in-range](https://github.com/prajwalpatekar09-rgb/LeetCode-DSA/tree/master/3870-count-commas-in-range) |
 | [3871-count-commas-in-range-ii](https://github.com/prajwalpatekar09-rgb/LeetCode-DSA/tree/master/3871-count-commas-in-range-ii) |
