@@ -57,6 +57,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0231-power-of-two](https://github.com/prajwalpatekar09-rgb/LeetCode-DSA/tree/master/0231-power-of-two) |
 | [0258-add-digits](https://github.com/prajwalpatekar09-rgb/LeetCode-DSA/tree/master/0258-add-digits) |
 | [0342-power-of-four](https://github.com/prajwalpatekar09-rgb/LeetCode-DSA/tree/master/0342-power-of-four) |
+| [0367-valid-perfect-square](https://github.com/prajwalpatekar09-rgb/LeetCode-DSA/tree/master/0367-valid-perfect-square) |
 | [2469-convert-the-temperature](https://github.com/prajwalpatekar09-rgb/LeetCode-DSA/tree/master/2469-convert-the-temperature) |
 | [3516-find-closest-person](https://github.com/prajwalpatekar09-rgb/LeetCode-DSA/tree/master/3516-find-closest-person) |
 | [3622-check-divisibility-by-digit-sum-and-product](https://github.com/prajwalpatekar09-rgb/LeetCode-DSA/tree/master/3622-check-divisibility-by-digit-sum-and-product) |
@@ -85,6 +86,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0162-find-peak-element](https://github.com/prajwalpatekar09-rgb/LeetCode-DSA/tree/master/0162-find-peak-element) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/prajwalpatekar09-rgb/LeetCode-DSA/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0287-find-the-duplicate-number](https://github.com/prajwalpatekar09-rgb/LeetCode-DSA/tree/master/0287-find-the-duplicate-number) |
+| [0367-valid-perfect-square](https://github.com/prajwalpatekar09-rgb/LeetCode-DSA/tree/master/0367-valid-perfect-square) |
 | [0540-single-element-in-a-sorted-array](https://github.com/prajwalpatekar09-rgb/LeetCode-DSA/tree/master/0540-single-element-in-a-sorted-array) |
 | [0704-binary-search](https://github.com/prajwalpatekar09-rgb/LeetCode-DSA/tree/master/0704-binary-search) |
 ## Simulation
