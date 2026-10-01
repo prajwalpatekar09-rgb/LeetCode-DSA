@@ -26,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0287-find-the-duplicate-number](https://github.com/prajwalpatekar09-rgb/LeetCode-DSA/tree/master/0287-find-the-duplicate-number) |
 | [0540-single-element-in-a-sorted-array](https://github.com/prajwalpatekar09-rgb/LeetCode-DSA/tree/master/0540-single-element-in-a-sorted-array) |
 | [0704-binary-search](https://github.com/prajwalpatekar09-rgb/LeetCode-DSA/tree/master/0704-binary-search) |
+| [0875-koko-eating-bananas](https://github.com/prajwalpatekar09-rgb/LeetCode-DSA/tree/master/0875-koko-eating-bananas) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/prajwalpatekar09-rgb/LeetCode-DSA/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3875-construct-uniform-parity-array-i](https://github.com/prajwalpatekar09-rgb/LeetCode-DSA/tree/master/3875-construct-uniform-parity-array-i) |
 | [3925-concatenate-array-with-reverse](https://github.com/prajwalpatekar09-rgb/LeetCode-DSA/tree/master/3925-concatenate-array-with-reverse) |
@@ -90,6 +91,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0374-guess-number-higher-or-lower](https://github.com/prajwalpatekar09-rgb/LeetCode-DSA/tree/master/0374-guess-number-higher-or-lower) |
 | [0540-single-element-in-a-sorted-array](https://github.com/prajwalpatekar09-rgb/LeetCode-DSA/tree/master/0540-single-element-in-a-sorted-array) |
 | [0704-binary-search](https://github.com/prajwalpatekar09-rgb/LeetCode-DSA/tree/master/0704-binary-search) |
+| [0875-koko-eating-bananas](https://github.com/prajwalpatekar09-rgb/LeetCode-DSA/tree/master/0875-koko-eating-bananas) |
 ## Simulation
 |  |
 | ------- |
