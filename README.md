@@ -63,6 +63,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0258-add-digits](https://github.com/prajwalpatekar09-rgb/LeetCode-DSA/tree/master/0258-add-digits) |
 | [0342-power-of-four](https://github.com/prajwalpatekar09-rgb/LeetCode-DSA/tree/master/0342-power-of-four) |
 | [0367-valid-perfect-square](https://github.com/prajwalpatekar09-rgb/LeetCode-DSA/tree/master/0367-valid-perfect-square) |
+| [2396-strictly-palindromic-number](https://github.com/prajwalpatekar09-rgb/LeetCode-DSA/tree/master/2396-strictly-palindromic-number) |
 | [2469-convert-the-temperature](https://github.com/prajwalpatekar09-rgb/LeetCode-DSA/tree/master/2469-convert-the-temperature) |
 | [3516-find-closest-person](https://github.com/prajwalpatekar09-rgb/LeetCode-DSA/tree/master/3516-find-closest-person) |
 | [3622-check-divisibility-by-digit-sum-and-product](https://github.com/prajwalpatekar09-rgb/LeetCode-DSA/tree/master/3622-check-divisibility-by-digit-sum-and-product) |
@@ -127,6 +128,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0088-merge-sorted-array](https://github.com/prajwalpatekar09-rgb/LeetCode-DSA/tree/master/0088-merge-sorted-array) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/prajwalpatekar09-rgb/LeetCode-DSA/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0287-find-the-duplicate-number](https://github.com/prajwalpatekar09-rgb/LeetCode-DSA/tree/master/0287-find-the-duplicate-number) |
+| [2396-strictly-palindromic-number](https://github.com/prajwalpatekar09-rgb/LeetCode-DSA/tree/master/2396-strictly-palindromic-number) |
 ## Quicksort
 |  |
 | ------- |
@@ -188,4 +190,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0094-binary-tree-inorder-traversal](https://github.com/prajwalpatekar09-rgb/LeetCode-DSA/tree/master/0094-binary-tree-inorder-traversal) |
 | [0144-binary-tree-preorder-traversal](https://github.com/prajwalpatekar09-rgb/LeetCode-DSA/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/prajwalpatekar09-rgb/LeetCode-DSA/tree/master/0145-binary-tree-postorder-traversal) |
+## Brainteaser
+|  |
+| ------- |
+| [2396-strictly-palindromic-number](https://github.com/prajwalpatekar09-rgb/LeetCode-DSA/tree/master/2396-strictly-palindromic-number) |
 <!---LeetCode Topics End-->
