@@ -30,6 +30,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0888-fair-candy-swap](https://github.com/prajwalpatekar09-rgb/LeetCode-DSA/tree/master/0888-fair-candy-swap) |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/prajwalpatekar09-rgb/LeetCode-DSA/tree/master/1011-capacity-to-ship-packages-within-d-days) |
 | [1283-find-the-smallest-divisor-given-a-threshold](https://github.com/prajwalpatekar09-rgb/LeetCode-DSA/tree/master/1283-find-the-smallest-divisor-given-a-threshold) |
+| [1346-check-if-n-and-its-double-exist](https://github.com/prajwalpatekar09-rgb/LeetCode-DSA/tree/master/1346-check-if-n-and-its-double-exist) |
 | [1431-kids-with-the-greatest-number-of-candies](https://github.com/prajwalpatekar09-rgb/LeetCode-DSA/tree/master/1431-kids-with-the-greatest-number-of-candies) |
 | [1539-kth-missing-positive-number](https://github.com/prajwalpatekar09-rgb/LeetCode-DSA/tree/master/1539-kth-missing-positive-number) |
 | [2778-sum-of-squares-of-special-elements](https://github.com/prajwalpatekar09-rgb/LeetCode-DSA/tree/master/2778-sum-of-squares-of-special-elements) |
@@ -43,6 +44,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0128-longest-consecutive-sequence](https://github.com/prajwalpatekar09-rgb/LeetCode-DSA/tree/master/0128-longest-consecutive-sequence) |
 | [0229-majority-element-ii](https://github.com/prajwalpatekar09-rgb/LeetCode-DSA/tree/master/0229-majority-element-ii) |
 | [0888-fair-candy-swap](https://github.com/prajwalpatekar09-rgb/LeetCode-DSA/tree/master/0888-fair-candy-swap) |
+| [1346-check-if-n-and-its-double-exist](https://github.com/prajwalpatekar09-rgb/LeetCode-DSA/tree/master/1346-check-if-n-and-its-double-exist) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/prajwalpatekar09-rgb/LeetCode-DSA/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 ## Sorting
 |  |
@@ -54,6 +56,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0088-merge-sorted-array](https://github.com/prajwalpatekar09-rgb/LeetCode-DSA/tree/master/0088-merge-sorted-array) |
 | [0229-majority-element-ii](https://github.com/prajwalpatekar09-rgb/LeetCode-DSA/tree/master/0229-majority-element-ii) |
 | [0888-fair-candy-swap](https://github.com/prajwalpatekar09-rgb/LeetCode-DSA/tree/master/0888-fair-candy-swap) |
+| [1346-check-if-n-and-its-double-exist](https://github.com/prajwalpatekar09-rgb/LeetCode-DSA/tree/master/1346-check-if-n-and-its-double-exist) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/prajwalpatekar09-rgb/LeetCode-DSA/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 ## Math
 |  |
@@ -105,6 +108,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0888-fair-candy-swap](https://github.com/prajwalpatekar09-rgb/LeetCode-DSA/tree/master/0888-fair-candy-swap) |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/prajwalpatekar09-rgb/LeetCode-DSA/tree/master/1011-capacity-to-ship-packages-within-d-days) |
 | [1283-find-the-smallest-divisor-given-a-threshold](https://github.com/prajwalpatekar09-rgb/LeetCode-DSA/tree/master/1283-find-the-smallest-divisor-given-a-threshold) |
+| [1346-check-if-n-and-its-double-exist](https://github.com/prajwalpatekar09-rgb/LeetCode-DSA/tree/master/1346-check-if-n-and-its-double-exist) |
 | [1539-kth-missing-positive-number](https://github.com/prajwalpatekar09-rgb/LeetCode-DSA/tree/master/1539-kth-missing-positive-number) |
 ## Simulation
 |  |
@@ -133,6 +137,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0088-merge-sorted-array](https://github.com/prajwalpatekar09-rgb/LeetCode-DSA/tree/master/0088-merge-sorted-array) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/prajwalpatekar09-rgb/LeetCode-DSA/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0287-find-the-duplicate-number](https://github.com/prajwalpatekar09-rgb/LeetCode-DSA/tree/master/0287-find-the-duplicate-number) |
+| [1346-check-if-n-and-its-double-exist](https://github.com/prajwalpatekar09-rgb/LeetCode-DSA/tree/master/1346-check-if-n-and-its-double-exist) |
 | [2396-strictly-palindromic-number](https://github.com/prajwalpatekar09-rgb/LeetCode-DSA/tree/master/2396-strictly-palindromic-number) |
 ## Quicksort
 |  |
