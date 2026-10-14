@@ -35,6 +35,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/prajwalpatekar09-rgb/LeetCode-DSA/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [1431-kids-with-the-greatest-number-of-candies](https://github.com/prajwalpatekar09-rgb/LeetCode-DSA/tree/master/1431-kids-with-the-greatest-number-of-candies) |
 | [1539-kth-missing-positive-number](https://github.com/prajwalpatekar09-rgb/LeetCode-DSA/tree/master/1539-kth-missing-positive-number) |
+| [2529-maximum-count-of-positive-integer-and-negative-integer](https://github.com/prajwalpatekar09-rgb/LeetCode-DSA/tree/master/2529-maximum-count-of-positive-integer-and-negative-integer) |
 | [2778-sum-of-squares-of-special-elements](https://github.com/prajwalpatekar09-rgb/LeetCode-DSA/tree/master/2778-sum-of-squares-of-special-elements) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/prajwalpatekar09-rgb/LeetCode-DSA/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3875-construct-uniform-parity-array-i](https://github.com/prajwalpatekar09-rgb/LeetCode-DSA/tree/master/3875-construct-uniform-parity-array-i) |
@@ -118,6 +119,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1346-check-if-n-and-its-double-exist](https://github.com/prajwalpatekar09-rgb/LeetCode-DSA/tree/master/1346-check-if-n-and-its-double-exist) |
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/prajwalpatekar09-rgb/LeetCode-DSA/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [1539-kth-missing-positive-number](https://github.com/prajwalpatekar09-rgb/LeetCode-DSA/tree/master/1539-kth-missing-positive-number) |
+| [2529-maximum-count-of-positive-integer-and-negative-integer](https://github.com/prajwalpatekar09-rgb/LeetCode-DSA/tree/master/2529-maximum-count-of-positive-integer-and-negative-integer) |
 ## Simulation
 |  |
 | ------- |
@@ -132,6 +134,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0229-majority-element-ii](https://github.com/prajwalpatekar09-rgb/LeetCode-DSA/tree/master/0229-majority-element-ii) |
+| [2529-maximum-count-of-positive-integer-and-negative-integer](https://github.com/prajwalpatekar09-rgb/LeetCode-DSA/tree/master/2529-maximum-count-of-positive-integer-and-negative-integer) |
 ## Boyer–Moore Majority Vote Algorithm
 |  |
 | ------- |
