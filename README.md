@@ -25,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0229-majority-element-ii](https://github.com/prajwalpatekar09-rgb/LeetCode-DSA/tree/master/0229-majority-element-ii) |
 | [0268-missing-number](https://github.com/prajwalpatekar09-rgb/LeetCode-DSA/tree/master/0268-missing-number) |
 | [0287-find-the-duplicate-number](https://github.com/prajwalpatekar09-rgb/LeetCode-DSA/tree/master/0287-find-the-duplicate-number) |
+| [0414-third-maximum-number](https://github.com/prajwalpatekar09-rgb/LeetCode-DSA/tree/master/0414-third-maximum-number) |
 | [0540-single-element-in-a-sorted-array](https://github.com/prajwalpatekar09-rgb/LeetCode-DSA/tree/master/0540-single-element-in-a-sorted-array) |
 | [0704-binary-search](https://github.com/prajwalpatekar09-rgb/LeetCode-DSA/tree/master/0704-binary-search) |
 | [0875-koko-eating-bananas](https://github.com/prajwalpatekar09-rgb/LeetCode-DSA/tree/master/0875-koko-eating-bananas) |
@@ -60,6 +61,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0088-merge-sorted-array](https://github.com/prajwalpatekar09-rgb/LeetCode-DSA/tree/master/0088-merge-sorted-array) |
 | [0229-majority-element-ii](https://github.com/prajwalpatekar09-rgb/LeetCode-DSA/tree/master/0229-majority-element-ii) |
 | [0268-missing-number](https://github.com/prajwalpatekar09-rgb/LeetCode-DSA/tree/master/0268-missing-number) |
+| [0414-third-maximum-number](https://github.com/prajwalpatekar09-rgb/LeetCode-DSA/tree/master/0414-third-maximum-number) |
 | [0888-fair-candy-swap](https://github.com/prajwalpatekar09-rgb/LeetCode-DSA/tree/master/0888-fair-candy-swap) |
 | [1346-check-if-n-and-its-double-exist](https://github.com/prajwalpatekar09-rgb/LeetCode-DSA/tree/master/1346-check-if-n-and-its-double-exist) |
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/prajwalpatekar09-rgb/LeetCode-DSA/tree/master/1385-find-the-distance-value-between-two-arrays) |
