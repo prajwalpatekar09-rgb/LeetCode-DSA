@@ -79,6 +79,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/prajwalpatekar09-rgb/LeetCode-DSA/tree/master/0268-missing-number) |
 | [0342-power-of-four](https://github.com/prajwalpatekar09-rgb/LeetCode-DSA/tree/master/0342-power-of-four) |
 | [0367-valid-perfect-square](https://github.com/prajwalpatekar09-rgb/LeetCode-DSA/tree/master/0367-valid-perfect-square) |
+| [0633-sum-of-square-numbers](https://github.com/prajwalpatekar09-rgb/LeetCode-DSA/tree/master/0633-sum-of-square-numbers) |
 | [2396-strictly-palindromic-number](https://github.com/prajwalpatekar09-rgb/LeetCode-DSA/tree/master/2396-strictly-palindromic-number) |
 | [2469-convert-the-temperature](https://github.com/prajwalpatekar09-rgb/LeetCode-DSA/tree/master/2469-convert-the-temperature) |
 | [3516-find-closest-person](https://github.com/prajwalpatekar09-rgb/LeetCode-DSA/tree/master/3516-find-closest-person) |
@@ -113,6 +114,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0367-valid-perfect-square](https://github.com/prajwalpatekar09-rgb/LeetCode-DSA/tree/master/0367-valid-perfect-square) |
 | [0374-guess-number-higher-or-lower](https://github.com/prajwalpatekar09-rgb/LeetCode-DSA/tree/master/0374-guess-number-higher-or-lower) |
 | [0540-single-element-in-a-sorted-array](https://github.com/prajwalpatekar09-rgb/LeetCode-DSA/tree/master/0540-single-element-in-a-sorted-array) |
+| [0633-sum-of-square-numbers](https://github.com/prajwalpatekar09-rgb/LeetCode-DSA/tree/master/0633-sum-of-square-numbers) |
 | [0704-binary-search](https://github.com/prajwalpatekar09-rgb/LeetCode-DSA/tree/master/0704-binary-search) |
 | [0875-koko-eating-bananas](https://github.com/prajwalpatekar09-rgb/LeetCode-DSA/tree/master/0875-koko-eating-bananas) |
 | [0888-fair-candy-swap](https://github.com/prajwalpatekar09-rgb/LeetCode-DSA/tree/master/0888-fair-candy-swap) |
@@ -151,6 +153,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0088-merge-sorted-array](https://github.com/prajwalpatekar09-rgb/LeetCode-DSA/tree/master/0088-merge-sorted-array) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/prajwalpatekar09-rgb/LeetCode-DSA/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0287-find-the-duplicate-number](https://github.com/prajwalpatekar09-rgb/LeetCode-DSA/tree/master/0287-find-the-duplicate-number) |
+| [0633-sum-of-square-numbers](https://github.com/prajwalpatekar09-rgb/LeetCode-DSA/tree/master/0633-sum-of-square-numbers) |
 | [1346-check-if-n-and-its-double-exist](https://github.com/prajwalpatekar09-rgb/LeetCode-DSA/tree/master/1346-check-if-n-and-its-double-exist) |
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/prajwalpatekar09-rgb/LeetCode-DSA/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [2396-strictly-palindromic-number](https://github.com/prajwalpatekar09-rgb/LeetCode-DSA/tree/master/2396-strictly-palindromic-number) |
