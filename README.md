@@ -46,6 +46,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0073-set-matrix-zeroes](https://github.com/prajwalpatekar09-rgb/LeetCode-DSA/tree/master/0073-set-matrix-zeroes) |
 | [0128-longest-consecutive-sequence](https://github.com/prajwalpatekar09-rgb/LeetCode-DSA/tree/master/0128-longest-consecutive-sequence) |
+| [0202-happy-number](https://github.com/prajwalpatekar09-rgb/LeetCode-DSA/tree/master/0202-happy-number) |
 | [0229-majority-element-ii](https://github.com/prajwalpatekar09-rgb/LeetCode-DSA/tree/master/0229-majority-element-ii) |
 | [0268-missing-number](https://github.com/prajwalpatekar09-rgb/LeetCode-DSA/tree/master/0268-missing-number) |
 | [0888-fair-candy-swap](https://github.com/prajwalpatekar09-rgb/LeetCode-DSA/tree/master/0888-fair-candy-swap) |
@@ -74,6 +75,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0050-powx-n](https://github.com/prajwalpatekar09-rgb/LeetCode-DSA/tree/master/0050-powx-n) |
 | [0066-plus-one](https://github.com/prajwalpatekar09-rgb/LeetCode-DSA/tree/master/0066-plus-one) |
 | [0069-sqrtx](https://github.com/prajwalpatekar09-rgb/LeetCode-DSA/tree/master/0069-sqrtx) |
+| [0202-happy-number](https://github.com/prajwalpatekar09-rgb/LeetCode-DSA/tree/master/0202-happy-number) |
 | [0231-power-of-two](https://github.com/prajwalpatekar09-rgb/LeetCode-DSA/tree/master/0231-power-of-two) |
 | [0258-add-digits](https://github.com/prajwalpatekar09-rgb/LeetCode-DSA/tree/master/0258-add-digits) |
 | [0268-missing-number](https://github.com/prajwalpatekar09-rgb/LeetCode-DSA/tree/master/0268-missing-number) |
@@ -152,6 +154,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0018-4sum](https://github.com/prajwalpatekar09-rgb/LeetCode-DSA/tree/master/0018-4sum) |
 | [0088-merge-sorted-array](https://github.com/prajwalpatekar09-rgb/LeetCode-DSA/tree/master/0088-merge-sorted-array) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/prajwalpatekar09-rgb/LeetCode-DSA/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0202-happy-number](https://github.com/prajwalpatekar09-rgb/LeetCode-DSA/tree/master/0202-happy-number) |
 | [0287-find-the-duplicate-number](https://github.com/prajwalpatekar09-rgb/LeetCode-DSA/tree/master/0287-find-the-duplicate-number) |
 | [0633-sum-of-square-numbers](https://github.com/prajwalpatekar09-rgb/LeetCode-DSA/tree/master/0633-sum-of-square-numbers) |
 | [1346-check-if-n-and-its-double-exist](https://github.com/prajwalpatekar09-rgb/LeetCode-DSA/tree/master/1346-check-if-n-and-its-double-exist) |
@@ -186,6 +189,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Floyd's Cycle Finding Algorithm
 |  |
 | ------- |
+| [0202-happy-number](https://github.com/prajwalpatekar09-rgb/LeetCode-DSA/tree/master/0202-happy-number) |
 | [0287-find-the-duplicate-number](https://github.com/prajwalpatekar09-rgb/LeetCode-DSA/tree/master/0287-find-the-duplicate-number) |
 ## Newton's Method
 |  |
