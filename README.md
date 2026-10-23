@@ -32,6 +32,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0888-fair-candy-swap](https://github.com/prajwalpatekar09-rgb/LeetCode-DSA/tree/master/0888-fair-candy-swap) |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/prajwalpatekar09-rgb/LeetCode-DSA/tree/master/1011-capacity-to-ship-packages-within-d-days) |
 | [1283-find-the-smallest-divisor-given-a-threshold](https://github.com/prajwalpatekar09-rgb/LeetCode-DSA/tree/master/1283-find-the-smallest-divisor-given-a-threshold) |
+| [1295-find-numbers-with-even-number-of-digits](https://github.com/prajwalpatekar09-rgb/LeetCode-DSA/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [1346-check-if-n-and-its-double-exist](https://github.com/prajwalpatekar09-rgb/LeetCode-DSA/tree/master/1346-check-if-n-and-its-double-exist) |
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/prajwalpatekar09-rgb/LeetCode-DSA/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [1431-kids-with-the-greatest-number-of-candies](https://github.com/prajwalpatekar09-rgb/LeetCode-DSA/tree/master/1431-kids-with-the-greatest-number-of-candies) |
@@ -82,6 +83,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0342-power-of-four](https://github.com/prajwalpatekar09-rgb/LeetCode-DSA/tree/master/0342-power-of-four) |
 | [0367-valid-perfect-square](https://github.com/prajwalpatekar09-rgb/LeetCode-DSA/tree/master/0367-valid-perfect-square) |
 | [0633-sum-of-square-numbers](https://github.com/prajwalpatekar09-rgb/LeetCode-DSA/tree/master/0633-sum-of-square-numbers) |
+| [1295-find-numbers-with-even-number-of-digits](https://github.com/prajwalpatekar09-rgb/LeetCode-DSA/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [2396-strictly-palindromic-number](https://github.com/prajwalpatekar09-rgb/LeetCode-DSA/tree/master/2396-strictly-palindromic-number) |
 | [2469-convert-the-temperature](https://github.com/prajwalpatekar09-rgb/LeetCode-DSA/tree/master/2469-convert-the-temperature) |
 | [3516-find-closest-person](https://github.com/prajwalpatekar09-rgb/LeetCode-DSA/tree/master/3516-find-closest-person) |
