@@ -40,6 +40,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1539-kth-missing-positive-number](https://github.com/prajwalpatekar09-rgb/LeetCode-DSA/tree/master/1539-kth-missing-positive-number) |
 | [2529-maximum-count-of-positive-integer-and-negative-integer](https://github.com/prajwalpatekar09-rgb/LeetCode-DSA/tree/master/2529-maximum-count-of-positive-integer-and-negative-integer) |
 | [2778-sum-of-squares-of-special-elements](https://github.com/prajwalpatekar09-rgb/LeetCode-DSA/tree/master/2778-sum-of-squares-of-special-elements) |
+| [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/prajwalpatekar09-rgb/LeetCode-DSA/tree/master/2824-count-pairs-whose-sum-is-less-than-target) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/prajwalpatekar09-rgb/LeetCode-DSA/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3875-construct-uniform-parity-array-i](https://github.com/prajwalpatekar09-rgb/LeetCode-DSA/tree/master/3875-construct-uniform-parity-array-i) |
 | [3925-concatenate-array-with-reverse](https://github.com/prajwalpatekar09-rgb/LeetCode-DSA/tree/master/3925-concatenate-array-with-reverse) |
@@ -68,6 +69,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0888-fair-candy-swap](https://github.com/prajwalpatekar09-rgb/LeetCode-DSA/tree/master/0888-fair-candy-swap) |
 | [1346-check-if-n-and-its-double-exist](https://github.com/prajwalpatekar09-rgb/LeetCode-DSA/tree/master/1346-check-if-n-and-its-double-exist) |
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/prajwalpatekar09-rgb/LeetCode-DSA/tree/master/1385-find-the-distance-value-between-two-arrays) |
+| [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/prajwalpatekar09-rgb/LeetCode-DSA/tree/master/2824-count-pairs-whose-sum-is-less-than-target) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/prajwalpatekar09-rgb/LeetCode-DSA/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 ## Math
 |  |
@@ -129,6 +131,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/prajwalpatekar09-rgb/LeetCode-DSA/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [1539-kth-missing-positive-number](https://github.com/prajwalpatekar09-rgb/LeetCode-DSA/tree/master/1539-kth-missing-positive-number) |
 | [2529-maximum-count-of-positive-integer-and-negative-integer](https://github.com/prajwalpatekar09-rgb/LeetCode-DSA/tree/master/2529-maximum-count-of-positive-integer-and-negative-integer) |
+| [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/prajwalpatekar09-rgb/LeetCode-DSA/tree/master/2824-count-pairs-whose-sum-is-less-than-target) |
 ## Simulation
 |  |
 | ------- |
@@ -163,6 +166,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1346-check-if-n-and-its-double-exist](https://github.com/prajwalpatekar09-rgb/LeetCode-DSA/tree/master/1346-check-if-n-and-its-double-exist) |
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/prajwalpatekar09-rgb/LeetCode-DSA/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [2396-strictly-palindromic-number](https://github.com/prajwalpatekar09-rgb/LeetCode-DSA/tree/master/2396-strictly-palindromic-number) |
+| [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/prajwalpatekar09-rgb/LeetCode-DSA/tree/master/2824-count-pairs-whose-sum-is-less-than-target) |
 ## Quicksort
 |  |
 | ------- |
