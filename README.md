@@ -27,6 +27,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0287-find-the-duplicate-number](https://github.com/prajwalpatekar09-rgb/LeetCode-DSA/tree/master/0287-find-the-duplicate-number) |
 | [0414-third-maximum-number](https://github.com/prajwalpatekar09-rgb/LeetCode-DSA/tree/master/0414-third-maximum-number) |
 | [0540-single-element-in-a-sorted-array](https://github.com/prajwalpatekar09-rgb/LeetCode-DSA/tree/master/0540-single-element-in-a-sorted-array) |
+| [0658-find-k-closest-elements](https://github.com/prajwalpatekar09-rgb/LeetCode-DSA/tree/master/0658-find-k-closest-elements) |
 | [0704-binary-search](https://github.com/prajwalpatekar09-rgb/LeetCode-DSA/tree/master/0704-binary-search) |
 | [0875-koko-eating-bananas](https://github.com/prajwalpatekar09-rgb/LeetCode-DSA/tree/master/0875-koko-eating-bananas) |
 | [0888-fair-candy-swap](https://github.com/prajwalpatekar09-rgb/LeetCode-DSA/tree/master/0888-fair-candy-swap) |
@@ -66,6 +67,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0229-majority-element-ii](https://github.com/prajwalpatekar09-rgb/LeetCode-DSA/tree/master/0229-majority-element-ii) |
 | [0268-missing-number](https://github.com/prajwalpatekar09-rgb/LeetCode-DSA/tree/master/0268-missing-number) |
 | [0414-third-maximum-number](https://github.com/prajwalpatekar09-rgb/LeetCode-DSA/tree/master/0414-third-maximum-number) |
+| [0658-find-k-closest-elements](https://github.com/prajwalpatekar09-rgb/LeetCode-DSA/tree/master/0658-find-k-closest-elements) |
 | [0888-fair-candy-swap](https://github.com/prajwalpatekar09-rgb/LeetCode-DSA/tree/master/0888-fair-candy-swap) |
 | [1346-check-if-n-and-its-double-exist](https://github.com/prajwalpatekar09-rgb/LeetCode-DSA/tree/master/1346-check-if-n-and-its-double-exist) |
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/prajwalpatekar09-rgb/LeetCode-DSA/tree/master/1385-find-the-distance-value-between-two-arrays) |
@@ -122,6 +124,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0374-guess-number-higher-or-lower](https://github.com/prajwalpatekar09-rgb/LeetCode-DSA/tree/master/0374-guess-number-higher-or-lower) |
 | [0540-single-element-in-a-sorted-array](https://github.com/prajwalpatekar09-rgb/LeetCode-DSA/tree/master/0540-single-element-in-a-sorted-array) |
 | [0633-sum-of-square-numbers](https://github.com/prajwalpatekar09-rgb/LeetCode-DSA/tree/master/0633-sum-of-square-numbers) |
+| [0658-find-k-closest-elements](https://github.com/prajwalpatekar09-rgb/LeetCode-DSA/tree/master/0658-find-k-closest-elements) |
 | [0704-binary-search](https://github.com/prajwalpatekar09-rgb/LeetCode-DSA/tree/master/0704-binary-search) |
 | [0875-koko-eating-bananas](https://github.com/prajwalpatekar09-rgb/LeetCode-DSA/tree/master/0875-koko-eating-bananas) |
 | [0888-fair-candy-swap](https://github.com/prajwalpatekar09-rgb/LeetCode-DSA/tree/master/0888-fair-candy-swap) |
@@ -163,6 +166,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0202-happy-number](https://github.com/prajwalpatekar09-rgb/LeetCode-DSA/tree/master/0202-happy-number) |
 | [0287-find-the-duplicate-number](https://github.com/prajwalpatekar09-rgb/LeetCode-DSA/tree/master/0287-find-the-duplicate-number) |
 | [0633-sum-of-square-numbers](https://github.com/prajwalpatekar09-rgb/LeetCode-DSA/tree/master/0633-sum-of-square-numbers) |
+| [0658-find-k-closest-elements](https://github.com/prajwalpatekar09-rgb/LeetCode-DSA/tree/master/0658-find-k-closest-elements) |
 | [1346-check-if-n-and-its-double-exist](https://github.com/prajwalpatekar09-rgb/LeetCode-DSA/tree/master/1346-check-if-n-and-its-double-exist) |
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/prajwalpatekar09-rgb/LeetCode-DSA/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [2396-strictly-palindromic-number](https://github.com/prajwalpatekar09-rgb/LeetCode-DSA/tree/master/2396-strictly-palindromic-number) |
@@ -271,4 +275,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1480-running-sum-of-1d-array](https://github.com/prajwalpatekar09-rgb/LeetCode-DSA/tree/master/1480-running-sum-of-1d-array) |
+## Sliding Window
+|  |
+| ------- |
+| [0658-find-k-closest-elements](https://github.com/prajwalpatekar09-rgb/LeetCode-DSA/tree/master/0658-find-k-closest-elements) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [0658-find-k-closest-elements](https://github.com/prajwalpatekar09-rgb/LeetCode-DSA/tree/master/0658-find-k-closest-elements) |
 <!---LeetCode Topics End-->
