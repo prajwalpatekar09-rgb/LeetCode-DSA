@@ -39,6 +39,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1431-kids-with-the-greatest-number-of-candies](https://github.com/prajwalpatekar09-rgb/LeetCode-DSA/tree/master/1431-kids-with-the-greatest-number-of-candies) |
 | [1480-running-sum-of-1d-array](https://github.com/prajwalpatekar09-rgb/LeetCode-DSA/tree/master/1480-running-sum-of-1d-array) |
 | [1539-kth-missing-positive-number](https://github.com/prajwalpatekar09-rgb/LeetCode-DSA/tree/master/1539-kth-missing-positive-number) |
+| [1550-three-consecutive-odds](https://github.com/prajwalpatekar09-rgb/LeetCode-DSA/tree/master/1550-three-consecutive-odds) |
 | [1870-minimum-speed-to-arrive-on-time](https://github.com/prajwalpatekar09-rgb/LeetCode-DSA/tree/master/1870-minimum-speed-to-arrive-on-time) |
 | [2529-maximum-count-of-positive-integer-and-negative-integer](https://github.com/prajwalpatekar09-rgb/LeetCode-DSA/tree/master/2529-maximum-count-of-positive-integer-and-negative-integer) |
 | [2778-sum-of-squares-of-special-elements](https://github.com/prajwalpatekar09-rgb/LeetCode-DSA/tree/master/2778-sum-of-squares-of-special-elements) |
